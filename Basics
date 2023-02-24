@@ -1,0 +1,54 @@
+span tag-same  line
+p,h--block different line
+em tag-same line
+Lorem100- generate 100 word randomly
+h1*10 -- generate all 10 heading
+p*!0 --
+Basics tag
+---------------------------------------------------------
+Anchor & abbrevation tag
+List -- ordered or unorder List
+Images  & video tag
+Audio ,  tag, form   tag
+-------------------------------
+css
+----------------------------------
+div { color:red }
+
+div-selectorr
+color-property
+red-value
+incline-- when add css property next to html element
+
+internal-- when we css at head tag
+external-- when have css file and line html
+
+---------------------------------------
+Attribute selector
+a[href="vijay"]{
+
+}
+
+div, span, p{
+
+}
+------------------------
+child combinator
+span > p{
+
+}
+
+// descendent combinator
+li li{
+
+}
+sibling selector
+-------------------------
+h1+p
+-----------------
+general sibling selector
+h~p
+-----------------------
+css property
+---------------------------
+
