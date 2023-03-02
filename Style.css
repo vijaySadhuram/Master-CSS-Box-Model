@@ -1,16 +1,27 @@
-body{
-    background-color: rgb(174, 189, 180);
-    font-size: 30px;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    
+*{
+    padding: 0%;
+    margin: 0;
 }
-ul{
-    list-style:circle outside 
-}
-.small{
-    border: 10px solid crimson ;
-    padding: 100px;
-    margin: 20px 30px 40px 50px;
+header{
+    border: 2px solid crimson;
+    background-color: crimson;
+    padding: 50px;
     
+    
+
+}
+header> a{
+   color: aliceblue;
+    text-decoration: none;
+    margin: 0px 20px;
+    
+
+}
+section{
+    border: 2px solid;
+    height: 400px;
+    width: 1000px;
+    margin: auto;
+    background-color: grey
+
 }
