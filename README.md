@@ -1,3 +1,5 @@
+Fun with HTML & CSS
+-------------------------------------------------------------------------------------------------------
 <!-- # Documentation of JavaScript
 ------------------------
 Why do we need JavaScript
@@ -10,5 +12,5 @@ var name = null; // null example
 var name; //undefined
 ------------------------------
 JS is Dynamic type-- single variable can be used in different types  -->
-Fun with HTML & CSS
-image.png
+
+![image](https://user-images.githubusercontent.com/98251620/222801052-995255e7-5a7a-4cc9-bbea-f8e2b510357c.png)
