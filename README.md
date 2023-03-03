@@ -1,4 +1,4 @@
-# Documentation of JavaScript
+<!-- # Documentation of JavaScript
 ------------------------
 Why do we need JavaScript
 -------------------------
@@ -9,8 +9,5 @@ In Javascript, several data types are supported, such as Boolean, Number, String
 var name = null; // null example
 var name; //undefined
 ------------------------------
-JS is Dynamic type-- single variable can be used in different types 
-----------------------------
-For example: var a=10;
-var a=20;
-------------------------------
+JS is Dynamic type-- single variable can be used in different types  -->
+
