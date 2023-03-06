@@ -10,5 +10,3 @@ var name = null; // null example
 var name; //undefined
 ------------------------------
 JS is Dynamic type-- single variable can be used in different types  -->
-Fun with HTML & CSS
-image.png
